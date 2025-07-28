@@ -1,0 +1,10 @@
+.box-center {
+  display: flex;
+  flex-direction: column;  /* Stack children vertically */
+  align-items: center;      /* Center children horizontally */
+  padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
